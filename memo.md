@@ -1,12 +1,18 @@
 
 
 What kind of property is affecting the rate,
+    きれいにした後、フロート直す。
+
     actress? 
     budjet (seems not so reliable number, )
+    revenue (seems not always reliale. need to clean up.)
     run time?
-    Actress
+    [director, Actress]
+      タイトル数の数ごとにラベル付けする？基準を決めて確認すべき。
+      一人当たりのタイトル数分布も確認。
     genre
     production
+    year  (seems it is not fai, )
     
     is it getting every year? is old movie better?
 
