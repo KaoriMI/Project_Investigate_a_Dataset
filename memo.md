@@ -10,7 +10,8 @@ What kind of property is affecting the rate,
     [director, Actress]
       タイトル数の数ごとにラベル付けする？基準を決めて確認すべき。
       一人当たりのタイトル数分布も確認。
-    genre
+      数TOP 10　でばらつき見てみる。（→df中にtitle 残す。）
+    genre　ばらつき見る。describe 
     production
     year  (seems it is not fai, )
     
