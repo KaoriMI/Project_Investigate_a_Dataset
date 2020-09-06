@@ -3,7 +3,7 @@
 What kind of property is affecting the rate,
     きれいにした後、フロート直す。
 
-  
+    actress? 
     budjet (seems not so reliable number, )
     revenue (seems not always reliale. need to clean up.)
     run time?
@@ -11,7 +11,6 @@ What kind of property is affecting the rate,
       タイトル数の数ごとにラベル付けする？基準を決めて確認すべき。
       一人当たりのタイトル数分布も確認。
       数TOP 10　でばらつき見てみる。（→df中にtitle 残す。）
-    actress? 
     genre　ばらつき見る。describe 
     production
     year  (seems it is not fai, )
@@ -28,3 +27,5 @@ What kind of property is affecting the revenue,
 
 Does most popular actress brings the most. (Pivod?)
 
+*Is it ok to give a same weight for the film who has more than one genres..
+was my approach acceptable?
