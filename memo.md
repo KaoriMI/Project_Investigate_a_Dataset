@@ -29,3 +29,5 @@ Does most popular actress brings the most. (Pivod?)
 
 *Is it ok to give a same weight for the film who has more than one genres..
 was my approach acceptable?
+
+*Which 
