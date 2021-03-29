@@ -1,6 +1,6 @@
 # Project: Investigate TMDb Movie Dataset
  
-In this report, I explored movie data. I focused on exploring what kinds of properties are associated with movies that have a high vote average and documenting my findings.
+In this report, I explored movie data. I focused on exploring what kinds of properties are associated with movies that have a high vote average and documenting my findings. This is my second project of Udacity Data Analyst Nanodegree Program.
 
 ## Dataset
 This data set is collected from The Movie Database(TMDb) and contains about 10,000 movies. 
